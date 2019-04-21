@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
   <employees>
     <data>
-      <Title>James Bond</Title>
-      <Artist>Accountant</Artist>
-      <Country>$170,750</Country>
-      <Company>2011/07/25</Company>
-      <Price>Tokyo</Price>
+      <Title>Freddie Mercury Album</Title>
+      <Artist>Freddie Mercury</Artist>
+      <Country>USA</Country>
+      <Company>EMI</Company>
+      <Price>$10.9</Price>
     </data>
     <data>
       <Title>James Bond</Title>

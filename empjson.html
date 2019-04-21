@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Display JSON File Data in Datatables | Example</title>
+    <title>HW3 Album List (JSON) | Florence Yan</title>
     <!-- link datatables css -->
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.9/css/jquery.dataTables.min.css">
 </head>
@@ -10,22 +10,20 @@
     <table id="empTable" class="display" width="100%" cellspacing="0">
         <thead>
             <tr>
-                <th>Name</th>
-                <th>Designation</th>
-                <th>Office</th>
-                <th>Extension</th>
-                <th>Joining Date</th>
-                <th>Salary</th>
+                <th>Title</th>
+                <th>Artist</th>
+                <th>Country</th>
+                <th>Company</th>
+                <th>Price</th>
             </tr>
         </thead>
         <tfoot>
             <tr>
-                <th>Name</th>
-                <th>Designation</th>
-                <th>Office</th>
-                <th>Extension</th>
-                <th>Joining Date</th>
-                <th>Salary</th>
+                <th>Title</th>
+                <th>Artist</th>
+                <th>Country</th>
+                <th>Company</th>
+                <th>Price</th>
             </tr>
         </tfoot>
     </table>
@@ -40,12 +38,11 @@
         $('#empTable').dataTable({
             "ajax": "empdata.js",
             "columns": [
-                {"data": "name"},
-                {"data": "designation"},
-                {"data": "office"},
-                {"data": "extension"},
-                {"data": "joining_date"},
-                {"data": "salary"}
+                {"data": "Title"},
+                {"data": "Artist"},
+                {"data": "Country"},
+                {"data": "Company"},
+                {"data": "Price"}
             ]
         });   
     });

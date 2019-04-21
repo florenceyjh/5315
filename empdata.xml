@@ -1,10 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" ?>
   <HW3 Album List (XML) | Florence Yan>
     <data>
+      <Title>Freddie Mercury Album</Title>
+      <Artist>Freddie Mercury</Artist>
+      <Country>USA</Country>
+      <Company>EMI</Company>
+      <Price>$10.9</Price>
+    </data>
+    <data>
       <Title>James Bond</Title>
       <Artist>Accountant</Artist>
       <Country>$170,750</Country>
       <Company>2011/07/25</Company>
+      <Price>$10.9</Price>
+    </data>
+    <data>
+      <Title>James Bond</Title>
+      <Artist>Accountant</Artist>
+      <Country>$170,750</Country>
+      <Company>2011/07/25</Company>
+      <Price>$10.9</Price>
+    </data>
+    <data>
+      <Title>James Bond</Title>
+      <Artist>Accountant</Artist>
+      <Country>$170,750</Country>
+      <Company>2011/07/25</Company>
+      <Price>$10.9</Price>
+    </data>
+    <data>
+      <Title>James Bond</Title>
+      <Artist>Accountant</Artist>
+      <Country>$170,750</Country>
+      <Company>2011/07/25</Company>
+      <Price>$10.9</Price>
     </data>
     <data>
       <Title>James Bond</Title>
@@ -17,6 +46,14 @@
       <Artist>Accountant</Artist>
       <Country>$170,750</Country>
       <Company>2011/07/25</Company>
+      <Price>$10.9</Price>
+    </data>
+    <data>
+      <Title>James Bond</Title>
+      <Artist>Accountant</Artist>
+      <Country>$170,750</Country>
+      <Company>2011/07/25</Company>
+      <Price>$10.9</Price>
     </data>
     <data>
       <Title>James Bond</Title>
@@ -29,6 +66,7 @@
       <Artist>Accountant</Artist>
       <Country>$170,750</Country>
       <Company>2011/07/25</Company>
+      <Price>$10.9</Price>
     </data>
     <data>
       <Title>James Bond</Title>
@@ -41,6 +79,7 @@
       <Artist>Accountant</Artist>
       <Country>$170,750</Country>
       <Company>2011/07/25</Company>
+      <Price>$10.9</Price>
     </data>
     <data>
       <Title>James Bond</Title>
@@ -53,41 +92,13 @@
       <Artist>Accountant</Artist>
       <Country>$170,750</Country>
       <Company>2011/07/25</Company>
+      <Price>$10.9</Price>
     </data>
     <data>
       <Title>James Bond</Title>
       <Artist>Accountant</Artist>
       <Country>$170,750</Country>
       <Company>2011/07/25</Company>
-    </data>
-    <data>
-      <Title>James Bond</Title>
-      <Artist>Accountant</Artist>
-      <Country>$170,750</Country>
-      <Company>2011/07/25</Company>
-    </data>
-    <data>
-      <Title>James Bond</Title>
-      <Artist>Accountant</Artist>
-      <Country>$170,750</Country>
-      <Company>2011/07/25</Company>
-    </data>
-    <data>
-      <Title>James Bond</Title>
-      <Artist>Accountant</Artist>
-      <Country>$170,750</Country>
-      <Company>2011/07/25</Company>
-    </data>
-    <data>
-      <Title>James Bond</Title>
-      <Artist>Accountant</Artist>
-      <Country>$170,750</Country>
-      <Company>2011/07/25</Company>
-    </data>
-    <data>
-      <Title>James Bond</Title>
-      <Artist>Accountant</Artist>
-      <Country>$170,750</Country>
-      <Company>2011/07/25</Company>
+      <Price>$10.9</Price>
     </data>
   </HW3 Album List (XML) | Florence Yan>
